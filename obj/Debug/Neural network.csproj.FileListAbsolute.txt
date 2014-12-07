@@ -1,0 +1,9 @@
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural network.csprojResolveAssemblyReference.cache
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural_network.MainForm.resources
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural network.csproj.GenerateResource.Cache
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\bin\Debug\Neural network.exe
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\bin\Debug\Neural network.pdb
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural network.exe
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural network.pdb
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural_network.Hopfield.resources
+C:\Users\Catfish\Desktop\Университет\Цифровая обработка изображений и распознавание образов (Вариант 5)\Neural network\obj\Debug\Neural_network.Hemming.resources
